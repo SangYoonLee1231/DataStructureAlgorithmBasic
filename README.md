@@ -6,4 +6,5 @@
 > [강의 영상 주소](https://youtube.com/playlist?list=PL9mhQYIlKEhfg0aLdaO04wYUovLMXY4DU, "")
 
 ### Python_HufsAlgorithm (2021.09 ~ 2021.XX.XX)
-2학년 2학기 학부 알고리즘 수업을 통해 공부한 파이썬 알고리즘 코드를 저장해두는 보관소
+2-2학기 학부 알고리즘 수업을 통해 공부한 파이썬 알고리즘 코드를 저장해두는 보관소
+(일부 2-2학기 자바 학부 수업에 다룬 알고리즘 코드도 포함
