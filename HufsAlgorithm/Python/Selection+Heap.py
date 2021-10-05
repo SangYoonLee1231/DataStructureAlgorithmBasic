@@ -1,4 +1,4 @@
-# Selection + Heap (힙 + 선택 알고리즘)
+# Selection + Heap (힙 + 선택 알고리즘) - (학교 과제)
 # 배열 A애서 k번째로 작은 값 출력
 
 import heapq
