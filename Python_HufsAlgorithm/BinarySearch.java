@@ -1,5 +1,7 @@
 // 자바 학부 수업에 다룬 - 이진 트리(Binary Search) 검색 알고리즘
 
+import java.util.Arrays;
+
 // 클래스로 구현
 class BinarySearch
 {
@@ -54,9 +56,14 @@ public class BinarySearchEx {
 		
 		BinarySearch bs = new BinarySearch();
 		
-		System.out.println(bs.binarySearch(a, 15));
+		System.out.println(bs.binarySearch(a, key));
 		System.out.println(bs.binarySearch(a, 17));
 		System.out.println(bs.binarySearch(a, 3));
+		
+		// 내부 메소드 이용 (Array 클래스 import)
+		System.out.println(Arrays.binarySearch(a, key));
+		System.out.println(Arrays.binarySearch(a, 17));
+		System.out.println(Arrays.binarySearch(a, 3));
 	}
 
 }
