@@ -7,7 +7,7 @@ def find_median_five(A):
 	max_idx = 0
 
 	n = len(A)
-	mid_idx =  // 2
+	mid_idx = n // 2
 
 	for _ in range(mid_idx + 1):
 		for i in range(n):
