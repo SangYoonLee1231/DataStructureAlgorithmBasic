@@ -2,7 +2,7 @@
 
 def find_median_five(A):
     #L의 다섯 개 이하의 값 중에서 중간값을 찾아 리턴하는 코드
-    #파이썬의 man,min 함수 사용해도 됩 (단, sort 등 정렬하면 안됨)
+    #파이썬의 man,min 함수 사용해도 됨 (단, sort 등 정렬하면 안됨)
 	max = A[0]
 	max_idx = 0
 
